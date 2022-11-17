@@ -22,6 +22,6 @@ class Abs{
 			ps.swin();
 			
 			System.out.println("The valu of t is "+ ps.t);
-			System.out.println("The valu of t is "+ ps.swin);
+			//System.out.println("The valu of t is "+ ps.swin);
 	  }
 }
